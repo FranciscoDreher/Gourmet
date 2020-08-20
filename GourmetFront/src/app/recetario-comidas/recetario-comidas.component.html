@@ -1,0 +1,19 @@
+<h1>Comidas del Recetario {{ recetario.titulo }}</h1>
+
+<ul>
+    <div class="li-style" *ngFor="let comida of comidas">
+        <li>
+            <a href="#" class="subtitulo-1">{{ comida.nombre }}</a>
+            <div class="ul-interno">
+                <h3>Ingredientes</h3>
+                <ul>
+                    <li *ngFor="let ingrediente of comida.ingredientes">
+                        {{ ingrediente.alimento.nombre }}, cantidad: {{ ingrediente.cantidad }}, calorias: {{ ingrediente.alimento.calorias }} 
+                    </li>
+                </ul>
+            </div>
+            
+        </li>
+    </div>
+    
+</ul>

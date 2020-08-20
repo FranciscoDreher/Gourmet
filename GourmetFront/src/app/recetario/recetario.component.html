@@ -1,0 +1,19 @@
+<h1>Recetarios</h1>
+
+<ul>
+    <div class="li-style" *ngFor="let recetario of recetarios">
+        <li>
+            <a href="#"  class="subtitulo-1">{{ recetario.titulo }}</a>
+            <div class="ul-interno">
+                <h3><a [routerLink]="['/recetarios', recetario.recetarioId, 'comidas']">Comidas</a></h3>
+                <ul>
+                    <li *ngFor="let comida of recetario.comidas">
+                        <a href="#">{{ comida.nombre }}</a>
+                    </li>
+                </ul>
+            </div>
+            
+        </li>
+    </div>
+    
+</ul>

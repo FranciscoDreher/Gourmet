@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\Proyectos\Hexacta\fdreher\Gourmet\Gourmet\bin\Debug\netcoreapp3.1\Gourmet.deps.json
+C:\Users\PC\Documents\Proyectos\Hexacta\fdreher\Gourmet\Gourmet\bin\Debug\netcoreapp3.1\Gourmet.runtimeconfig.json
+C:\Users\PC\Documents\Proyectos\Hexacta\fdreher\Gourmet\Gourmet\bin\Debug\netcoreapp3.1\Gourmet.runtimeconfig.dev.json
+C:\Users\PC\Documents\Proyectos\Hexacta\fdreher\Gourmet\Gourmet\bin\Debug\netcoreapp3.1\Gourmet.dll
+C:\Users\PC\Documents\Proyectos\Hexacta\fdreher\Gourmet\Gourmet\bin\Debug\netcoreapp3.1\Gourmet.pdb
+C:\Users\PC\Documents\Proyectos\Hexacta\fdreher\Gourmet\Gourmet\obj\Debug\netcoreapp3.1\Gourmet.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Proyectos\Hexacta\fdreher\Gourmet\Gourmet\obj\Debug\netcoreapp3.1\Gourmet.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Proyectos\Hexacta\fdreher\Gourmet\Gourmet\obj\Debug\netcoreapp3.1\Gourmet.AssemblyInfo.cs
+C:\Users\PC\Documents\Proyectos\Hexacta\fdreher\Gourmet\Gourmet\obj\Debug\netcoreapp3.1\Gourmet.dll
+C:\Users\PC\Documents\Proyectos\Hexacta\fdreher\Gourmet\Gourmet\obj\Debug\netcoreapp3.1\Gourmet.pdb

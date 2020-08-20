@@ -1,0 +1,8 @@
+C:\Users\PC\Documents\Proyectos\Hexacta\fdreher\Gourmet\Gourmet\bin\Debug\netstandard2.0\Gourmet.deps.json
+C:\Users\PC\Documents\Proyectos\Hexacta\fdreher\Gourmet\Gourmet\bin\Debug\netstandard2.0\Gourmet.dll
+C:\Users\PC\Documents\Proyectos\Hexacta\fdreher\Gourmet\Gourmet\bin\Debug\netstandard2.0\Gourmet.pdb
+C:\Users\PC\Documents\Proyectos\Hexacta\fdreher\Gourmet\Gourmet\obj\Debug\netstandard2.0\Gourmet.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Proyectos\Hexacta\fdreher\Gourmet\Gourmet\obj\Debug\netstandard2.0\Gourmet.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Proyectos\Hexacta\fdreher\Gourmet\Gourmet\obj\Debug\netstandard2.0\Gourmet.AssemblyInfo.cs
+C:\Users\PC\Documents\Proyectos\Hexacta\fdreher\Gourmet\Gourmet\obj\Debug\netstandard2.0\Gourmet.dll
+C:\Users\PC\Documents\Proyectos\Hexacta\fdreher\Gourmet\Gourmet\obj\Debug\netstandard2.0\Gourmet.pdb
